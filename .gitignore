@@ -1,0 +1,9 @@
+#들어가면 안되는 파일 이름, 확장자 등 여기에 작성
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+data/
+logs/
+*.log
